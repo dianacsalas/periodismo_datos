@@ -21,6 +21,17 @@ Este artículo es periodismo económico y social, ya que pretendemos demostrar q
  
 ## Fuentes de información:
 
+- https://www.ine.es/
+
+Resultados/PIB a precios de mercado:
+
+Datos económicos de España: aquí podemos encontrar el PIB centrándonos en los consumidores (demanda, oferta y rentas). 
+Para localizar las épocas de crisis tendremos en cuenta que estos datos siguen un patrón: la demanda baja, la oferta y las rentas también bajan (constricción de la economía).
+
+Resultados trimestrales/Parados:
+
+Datos poblacionales del paro por grupo de edad, sexo y comunidad autónoma. A mayor paro, menor consumo. El paro es un indicador del ralentizamiento de la economía, por tanto un indicador de períodos de crisis económica.
+
 
 
 
