@@ -1,7 +1,7 @@
 ### periodismo_datos
 Periodismo y ciclo de vida de los datos: repositorio del reportaje periodístico
 
-# REPORTAJE PERIODISTICO
+# Tendencia política en épocas de crisis: ¿el bolsillo condiciona el voto?
 
 ## Tema:
 
