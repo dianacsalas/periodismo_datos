@@ -10,7 +10,7 @@ Durante los últimos años (y no tan últimos) se han vivido en España una seri
 
 ## Hipótesis:
 
-En general siempre se dice que en épocas de crisis todos miramos el bolsillo, nuestro bolsillo. Por tanto, se ha dicho que en malos momentos en la economía se tiende a las políticas de derechas. La hipótesis es verificar o refutar esta teoría económico-social de tendencia de voto, comparando datos económicos de España en los últimos 50 años y viendo las tendencias del voto en esta misma época. 
+En general siempre se dice que en épocas de crisis todos miramos el bolsillo, nuestro bolsillo. Por tanto, se ha dicho que en malos momentos en la economía se tiende a las políticas de derechas. La hipótesis es verificar o refutar esta teoría económico-social de tendencia de voto, comparando datos económicos de España en los últimos 40 años (des del inicio de la democracia española) y viendo las tendencias del voto en esta misma época. 
 Así veremos si realmente en las crisis económicas fuertes la población se decanta por los partidos de derechas o no, y el porqué.
 
 
