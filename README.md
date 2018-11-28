@@ -43,7 +43,7 @@ Para los datos del INE, podemos encontrar el detalle de comunidad autónoma en l
 Para los datos del paro, tenemos el detalle por comunidad autónoma en el mismo apartado que hemos descrito anteriormente.
 
 
-### RESULTADOS ELECTORALES
+### RESULTADOS ELECTORALES:
 
 El siguiente punto es ver los resultados electorales. Estos datos los podremos encontrar en la web del Ministerio de Interior que tiene los resultados electorales des de 1976:
 
