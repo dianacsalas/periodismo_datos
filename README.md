@@ -23,15 +23,18 @@ Este artículo es periodismo económico y social, ya que pretendemos demostrar q
 
 ### DATOS ECONÓMICOS:
 
-Para dictaminar si hay o no una crisis económica, deberemos fijarnos en los indicadores de consumo de la población y también en el desempleo. Estos datos los podemos encontrar en el INE (Instituto Nacional de Estadística). 
-A priori, se han encontrado datos en formatos procesables (excel, csv, etc) de los años 2002 al 2018 (17 años). Los datos históricos se encuentran en formatos no procesables de forma automatizada (pdf) y requerirán de más tiempo para ser cargados y analizados. Por este motivo, en esta primera aproximación al artículo se analizarán los datos de los últimos 17 años.  
 
 - https://www.ine.es/
+
+Para dictaminar si hay o no una crisis económica, deberemos fijarnos en los indicadores de consumo de la población y también en el desempleo. Estos datos los podemos encontrar en el INE (Instituto Nacional de Estadística). 
+A priori, se han encontrado datos en formatos procesables (excel, csv, etc) de los años 2002 al 2018 (17 años). Los datos históricos se encuentran en formatos no procesables de forma automatizada (pdf) y requerirán de más tiempo para ser cargados y analizados.
+
 
 Resultados/PIB a precios de mercado:
 
 Datos económicos de España: aquí podemos encontrar el PIB centrándonos en los consumidores (demanda, oferta y rentas). 
 Para localizar las épocas de crisis tendremos en cuenta que estos datos siguen un patrón: la demanda baja, la oferta y las rentas también bajan (constricción de la economía).
+
 
 Resultados trimestrales/Parados:
 
@@ -41,6 +44,20 @@ Datos poblacionales del paro por grupo de edad, sexo y comunidad autónoma. A ma
 Si queremos analizar la evolución económica por comunidad autónoma y si hay variación en el resultado electoral entre los resultados estatales y el voto particular de cada comunidad (dentro de las elecciones generales) en función de cómo afecta el impacto económico en cada comunidad por separado, deberíamos tener en cuenta los datos con detalle de comunidad autónoma.
 Para los datos del INE, podemos encontrar el detalle de comunidad autónoma en los mismos enlaces. Aunque deberemos tener en cuenta que en referencia al PIB no tendremos el detalle de demanda/oferta/rentas, sino que tendremos el valor del PIB ya calculado por comunidad. A efectos prácticos es lo mismo, simplemente que no tendremos una explicación con datos del valor del PIB, sino que lo obtendremos ya calculado. 
 Para los datos del paro, tenemos el detalle por comunidad autónoma en el mismo apartado que hemos descrito anteriormente.
+
+
+https://datosmacro.expansion.com/pib/espana
+
+Aquí tendríamos los datos del PIB y del paro también en diferentes períodos. 
+
+Trabajando más profundamente los orígenes de datos, localizamos más concretamente los datos base con los que trabajar. Por temas de disponibilidad de información y fechas, es complicado utilizar una sola fuente. Así pues se ha creado un archivo de texto para indicar exactamente las URLs donde encontramos los datos respecto al PIB y el paro en los períodos indicados:
+
+- PIB - nivel estatal: 1971 - 2017
+- PIB - nivel CCAA: 1980 - 2017
+- PIB por componentes - nivel estatal: 1995 - 2017 (estos datos complementarán el PIB a nivel estatal en los años disponibles)
+- Paro - nivel estatal y por CCAA: 1976 - 2017
+
+El fichero con las URLs que trabajaremos se encuentra en el repositorio bajo el nombre de "urls datos - PIB y PARO".
 
 
 ### RESULTADOS ELECTORALES:
