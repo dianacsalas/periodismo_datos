@@ -19,7 +19,12 @@ Así veremos si realmente en las crisis económicas fuertes la población se dec
 Este artículo es periodismo económico y social, ya que pretendemos demostrar que la economía y la política están estrechamente relacionadas, y que la economía afecta a las decisiones políticas de la sociedad. Para hacer esta demostración, necesitamos datos históricos que nos respalden y hacer una comparativa fiable entre indicadores económicos y tendencias de votos, así como resultados electorales. 
 
  
-## Fuentes de información:
+## Fuentes de información y métodos de búsqueda:
+
+### DATOS ECONÓMICOS:
+
+Para dictaminar si hay o no una crisis económica, deberemos fijarnos en los indicadores de consumo de la población y también en el desempleo. Estos datos los podemos encontrar en el INE (Instituto Nacional de Estadística). 
+A priori, se han encontrado datos en formatos procesables (excel, csv, etc) de los años 2002 al 2018 (17 años). Los datos históricos se encuentran en formatos no procesables de forma automatizada (pdf) y requerirán de más tiempo para ser cargados y analizados. Por este motivo, en esta primera aproximación al artículo se analizarán los datos de los últimos 17 años.  
 
 - https://www.ine.es/
 
@@ -33,8 +38,20 @@ Resultados trimestrales/Parados:
 Datos poblacionales del paro por grupo de edad, sexo y comunidad autónoma. A mayor paro, menor consumo. El paro es un indicador del ralentizamiento de la economía, por tanto un indicador de períodos de crisis económica.
 
 
+Si queremos analizar la evolución económica por comunidad autónoma y si hay variación en el resultado electoral entre los resultados estatales y el voto particular de cada comunidad (dentro de las elecciones generales) en función de cómo afecta el impacto económico en cada comunidad por separado, deberíamos tener en cuenta los datos con detalle de comunidad autónoma.
+Para los datos del INE, podemos encontrar el detalle de comunidad autónoma en los mismos enlaces. Aunque deberemos tener en cuenta que en referencia al PIB no tendremos el detalle de demanda/oferta/rentas, sino que tendremos el valor del PIB ya calculado por comunidad. A efectos prácticos es lo mismo, simplemente que no tendremos una explicación con datos del valor del PIB, sino que lo obtendremos ya calculado. 
+Para los datos del paro, tenemos el detalle por comunidad autónoma en el mismo apartado que hemos descrito anteriormente.
 
 
-## Métodos de búsqueda:
+### RESULTADOS ELECTORALES
+
+El siguiente punto es ver los resultados electorales. Estos datos los podremos encontrar en la web del Ministerio de Interior que tiene los resultados electorales des de 1976:
+
+- http://www.infoelectoral.mir.es/min/
+
+En este enlace deberemos seleccionar los datos de la elecciones al Congreso, utilizando los filtros que la propia web facilita llegaremos a la información. Mediante el selector de fecha podremos acceder a los resultados de cada una de las elecciones realizadas en España des de 1977.
+
+Para obtener el detalle de cada comunidad autónoma, deberemos seleccionar las elecciones al Congreso y ver cómo ha votado cada comunidad (seleccionándola en el selector apropiado). Así veremos que aunque el resultado general sea hacia un partido, quizás alguna counidad autónoma despunte hacia una intención de voto distinta que otra debido a sus variables económicas. 
+
 
 
