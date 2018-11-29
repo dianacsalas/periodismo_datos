@@ -1,38 +1,38 @@
 ### DATOS PIB ###
 
 
-PIB - por comunidades aut髇omas - a駉s 1995 a 2017 (formato web, necesario web scraping u obtenci髇 manual)
+PIB - por comunidades aut贸nomas - a帽os 1995 a 2017 (formato web, necesario web scraping u obtenci贸n manual)
 
 https://datosmacro.expansion.com/pib/espana-comunidades-autonomas?anio=2017
 
 
-PIB - nivel estatal - a駉s 1980 a 2017 (formato web, necesario web scraping u obtenci髇 manual)
+PIB - nivel estatal - a帽os 1980 a 2017 (formato web, necesario web scraping u obtenci贸n manual)
 
 https://datosmacro.expansion.com/pib/espana
 
 
-PIB - nivel estatal  y con detalle de gasto/oferta/renta - a駉s 1995 a 2017 (formato excel)
+PIB - nivel estatal  y con detalle de gasto/oferta/renta - a帽os 1995 a 2017 (formato excel)
 
 https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736165950&menu=resultados&secc=1254736158091&idp=1254735576581 (PIB a precios de mercado)
 
    * Gasto: "Gasto en consumo final"
    * Oferta: Sumatorio de "Oferta" excepto "Impuestos netos sobre los productos"
-   * Renta: "Remuneraci髇 de los asalariados"
+   * Renta: "Remuneraci贸n de los asalariados"
 
 
-PIB - nivel estatal - a駉s 1971 a 1997 (formato excel)
+PIB - nivel estatal - a帽os 1971 a 1997 (formato excel)
 
 https://www.ine.es/dynt3/inebase/index.htm?type=pcaxis&path=/t35/p008/cne/ba86&file=pcaxis (Precios Corrientes - tabla 0)
 
    * PIB: "N.1 Producto interior bruto a precios mercado"
 
 
-PIB - por comunidades aut髇omas - a駉s 2010 a 2017
+PIB - por comunidades aut贸nomas - a帽os 2010 a 2017
 
-https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736167628&menu=resultados&idp=1254735576581 (Serie Contable - Serie 2010-2017 por comunidades y ciudades aut髇omas)
+https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736167628&menu=resultados&idp=1254735576581 (Serie Contable - Serie 2010-2017 por comunidades y ciudades aut贸nomas)
 
 
-PIB - por comunidades aut髇omas - a駉s 1980 a 1996 y a駉s 1995 a 2010
+PIB - por comunidades aut贸nomas - a帽os 1980 a 1996 y a帽os 1995 a 2010
 
 https://www.ine.es/dynt3/inebase/index.htm?type=pcaxis&path=/t35/p010/a1996&file=pcaxis (fichero 1.1)
 
@@ -43,26 +43,26 @@ https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736167
 ### DATOS PARO ###
 
 
-Paro - tasas de paro estatal - a駉s 1986 a 2017 (formato web, necesario web scraping u obtenci髇 manual)
+Paro - tasas de paro estatal - a帽os 1986 a 2017 (formato web, necesario web scraping u obtenci贸n manual)
 
 https://datosmacro.expansion.com/paro/espana?sector=Tasa+de+desempleo&sc=LAB-&anio=1986
 
 
-Paro - tasas de paro por comunidades aut髇omas - a駉s 1976 a 2017 (formato web, necesario web scraping u obtenci髇 manual)
+Paro - tasas de paro por comunidades aut贸nomas - a帽os 1976 a 2017 (formato web, necesario web scraping u obtenci贸n manual)
 
 https://datosmacro.expansion.com/paro-epa/espana-comunidades-autonomas/andalucia?sector=Tasa+de+desempleo+%28EPA%29&sc=UEPAR-&anio=1976
 
 
-Paro - tasas de paro por comunidades aut髇omas y estatal - a駉s 2002 a 2017 (formato excel)
+Paro - tasas de paro por comunidades aut贸nomas y estatal - a帽os 2002 a 2017 (formato excel)
 
 http://www.ine.es/jaxiT3/Tabla.htm?t=4247
 
 
-Paro - tasas de paro por comunidades autonomas y estatal - a駉s 1976 a 1995 (formato excel)
+Paro - tasas de paro por comunidades autonomas y estatal - a帽os 1976 a 1995 (formato excel)
 
 http://www.ine.es/dynt3/inebase/index.htm?type=pcaxis&path=/t22/e308/meto_02/pae/px/&file=pcaxis (fichero 3.3 - columnas Tasas de paro)
 
 
-Paro - tasas de paro por comunidades autonomas y estatal - a駉s 1996 a 2004 (formato excel)
+Paro - tasas de paro por comunidades autonomas y estatal - a帽os 1996 a 2004 (formato excel)
 
 http://www.ine.es/dynt3/inebase/index.htm?type=pcaxis&path=/t22/e308/meto_05/pae/px/&file=pcaxis (fichero 3.3 - columnas Tasas de paro)
