@@ -72,3 +72,25 @@ Para obtener el detalle de cada comunidad autónoma, deberemos seleccionar las e
 
 
 
+# PEC3 - HILO ARGUMENTAL
+
+
+### Obtención de Datos
+
+Se empieza por obtener los datos de las fuentes mendionadas anteriormente. Después del proceso de obtención, acabamos con múltiples ficheros excel que deberemos procesar para tener algo legible y utilizable en un entorno de análisis.
+
+El procesado de ficheros se ha realizdo en parte de forma manual en el propio excel (eliminando filas que sobrabas y otroa campos que no aportan valor) y también mediante procesos ETL utilizando la herramienta Kettle (Pentaho).
+
+En el repositorio incluímos los ficheros obtenidos directamente de orígen : "ORIGENES_DATOS_EN_CRUDO.rar"
+
+Y también los ficheros obtenidos tras el procesado, aquellos que cargaremos en nuestra herramienta de visualización y con los que construiremos el modelo de datos que nos permitirá realizar los análisis: "ORIGENES_DATOS_PROCESADOS.rar"
+
+Se incluyen los procesos de carga y los ficheros base que han sido utilizados desde los mismos, por si alguien quiere echarle un vistazo a la ETL: "ETL_PROCESS.rar"
+
+
+### Algunos Análisis
+
+Como herramienta de análisis de datos vamos a utilizar Tableau, que además de ser un software muy potente creado para el Data Science, también tiene versiones gratuitas para estudiantes. 
+
+
+
