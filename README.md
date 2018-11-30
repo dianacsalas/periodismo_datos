@@ -94,7 +94,7 @@ Como herramienta de análisis de datos vamos a utilizar Tableau, que además de 
 2 - Creación del modelo que nos permite realizar los análisis 
 3 - Creación de análisis de datos (gráficos) que nos ayudan a entender los datos y aportan valor añadido
 
-Los archivos de imagen son las exportaciones desde Tableau de los gráficos generados. Analizamos los resultados y prepararemos un esbozo del discurso incluyendo los gráficos generados en un archivo pdf: "HILO_ARGUMENTAL"
+Los archivos de imagen son las exportaciones desde Tableau de los gráficos generados. Analizamos los resultados y prepararemos un esbozo del discurso incluyendo los gráficos generados en un archivo pdf y word: "HILO_ARGUMENTAL"
 
 
 
