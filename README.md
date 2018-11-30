@@ -91,7 +91,9 @@ Y también los ficheros obtenidos tras el procesado, aquellos que cargaremos en 
 Como herramienta de análisis de datos vamos a utilizar Tableau, que además de ser un software muy potente creado para el Data Science, también tiene versiones gratuitas para estudiantes. En el fichero "ANALISIS_DATOS" se encuentran los análisis realizados en la herramienta, bajo el siguiente proceso:
 
 1 - Carga de datos de los archivos .csv procesados a partir de los datos en crudo obtenidos de las URLs
+
 2 - Creación del modelo que nos permite realizar los análisis 
+
 3 - Creación de análisis de datos (gráficos) que nos ayudan a entender los datos y aportan valor añadido
 
 Los archivos de imagen son las exportaciones desde Tableau de los gráficos generados. Analizamos los resultados y prepararemos un esbozo del discurso incluyendo los gráficos generados en un archivo pdf y word: "HILO_ARGUMENTAL"
