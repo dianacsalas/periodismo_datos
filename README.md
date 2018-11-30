@@ -83,14 +83,19 @@ El procesado de ficheros se ha realizdo en parte de forma manual en el propio ex
 
 En el repositorio incluímos los ficheros obtenidos directamente de orígen : "ORIGENES_DATOS_EN_CRUDO.rar"
 
-Y también los ficheros obtenidos tras el procesado, aquellos que cargaremos en nuestra herramienta de visualización y con los que construiremos el modelo de datos que nos permitirá realizar los análisis: "ORIGENES_DATOS_PROCESADOS.rar"
-
-Se incluyen los procesos de carga y los ficheros base que han sido utilizados desde los mismos, por si alguien quiere echarle un vistazo a la ETL: "ETL_PROCESS.rar"
+Y también los ficheros obtenidos tras el procesado, aquellos que cargaremos en nuestra herramienta de visualización y con los que construiremos el modelo de datos que nos permitirá realizar los análisis: "DATOS_PROCESADOS.rar"
 
 
 ### Algunos Análisis
 
-Como herramienta de análisis de datos vamos a utilizar Tableau, que además de ser un software muy potente creado para el Data Science, también tiene versiones gratuitas para estudiantes. 
+Como herramienta de análisis de datos vamos a utilizar Tableau, que además de ser un software muy potente creado para el Data Science, también tiene versiones gratuitas para estudiantes. En el fichero "ANALISIS_DATOS.rar" se encuentran los análisis realizados en la herramienta, bajo el siguiente proceso:
+
+1 - Carga de datos de los archivos .csv procesados a partir de los datos en crudo obtenidos de las URLs
+2 - Creación del modelo que nos permite realizar los análisis 
+3 - Creación de análisis de datos (gráficos) que nos ayudan a entender los datos y aportan valor añadido
+
+
+
 
 
 
